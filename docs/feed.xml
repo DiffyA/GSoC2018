@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-29T14:07:35+01:00</updated><id>http://localhost:4000/</id><title type="html">GSoC 2018 Progress</title><subtitle>Adventurer's journal following the progress of the young knight, V, in his quest to create the greatest Password Manager of the land. A secure Password Manager to rule them all!</subtitle><entry><title type="html">The beginning of a strange adventure</title><link href="http://localhost:4000/2018/05/28/The-beginning-of-a-strange-adventure.html" rel="alternate" type="text/html" title="The beginning of a strange adventure" /><published>2018-05-28T00:00:00+01:00</published><updated>2018-05-28T00:00:00+01:00</updated><id>http://localhost:4000/2018/05/28/The-beginning-of-a-strange-adventure</id><content type="html" xml:base="http://localhost:4000/2018/05/28/The-beginning-of-a-strange-adventure.html">&lt;p&gt;Hello everyone!&lt;/p&gt;
+
+&lt;p&gt;My name is Victor De Gouveia. I will be maintaining this blog as I venture through the Google Summer of Code 2018 program.&lt;/p&gt;
+
+&lt;p&gt;To keep it short and give a little bit of information about myself, I am a UK-based computer science student that loves to make things that work, and I have been selected by LEAP in order to carry out the development of a Password Management app that can be incorporated into their existing codebase.&lt;/p&gt;
+
+&lt;p&gt;This blog will serve as a sort of adventurer’s journal. I will be making weekly updates regarding the progress of the project. Posts will include things ranging from the struggles of learning new technologies, any persistent bugs that have given me headaches, as well as personal rants. So be prepared.&lt;/p&gt;
+
+&lt;p&gt;Posts will be made on a weekly basis, and I will try to make them regularly, however I must say that I am not a robot. Things may come up which may delay the posts. However, even though the posts will be done weekly, I will be keeping track of the project progress daily, and these smaller daily posts will be aggregated into the weekly post.&lt;/p&gt;
+
+&lt;p&gt;When time permits, I am hoping to move this blog to a stabler, better looking format. But that is not the goal as of yet, so please bear with me :)&lt;/p&gt;
+
+&lt;p&gt;If anybody has any personal inquiries about anything at all, please don’t hesitate to contact me at vdegou@gmail.com.&lt;/p&gt;
+
+&lt;p&gt;See you in the posts!&lt;/p&gt;
+
+&lt;p&gt;-V.&lt;/p&gt;</content><author><name></name></author><summary type="html">Hello everyone!</summary></entry></feed>
