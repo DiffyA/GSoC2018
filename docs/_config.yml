@@ -2,7 +2,7 @@ title: An adventurer's journal to GSoC 2018 at LEAP!
 email: vdegou@gmail.com
 description: >- 
   This is an adventurer's journal following the progress of the young knight, V, in his quest to create the greatest Password Manager of the land. A secure Password Manager to rule them all!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /GSoC2018 # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
