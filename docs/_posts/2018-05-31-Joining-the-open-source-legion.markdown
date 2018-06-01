@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Joining the open source legion"
-date:   2018-05-28
+date:   2018-05-31
 ---
 Hey! Time to talk software development.
 
