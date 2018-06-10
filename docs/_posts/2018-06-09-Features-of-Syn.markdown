@@ -36,6 +36,6 @@ However, an initial version (or *MVP*) will focus on the following subset of fea
 + **Data storage:** Syn must be able to store both passwords and regular data entries.
 + **Password generation:** a basic password generation feature will be put in place.
 
-The complete version of Syn is intended to have its own easy to use GUI, while the MVP is meant to be used via a command line interface. The CLI will act as a way of interfacing with the system, and will allow the user to perform actions such as registering a new user, logging in, creating a new password, etc. These functionalities will be explained further in the following post, which talks about the architecture of the system and the API exposed by Syn. 
+The complete version of Syn is intended to have its own easy to use GUI, while the MVP is meant to be used via a command line interface. The CLI will act as a way of interfacing with the system, and will allow the user to perform actions such as registering a new user, logging in, creating a new password, etc. These functionalities will be explained further in a post which describes the architecture of the system and the API exposed by Syn. 
 
 -V.
