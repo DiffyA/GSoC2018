@@ -25,7 +25,7 @@ As can be observed from the previous image, the following modules make up the Sy
 
 Apart from this initial revision of the system architecture, a high-level dependency diagram has also been drafted. Again, MVP versions and future versions have been tagged, and of course, this dependency diagram is subject to change.
 
-![Syn architecture dependencies] (https://raw.githubusercontent.com/DiffyA/GSoC2018/master/docs/_assets/architecture_dependencies.png)
+![Syn architecture dependencies](https://raw.githubusercontent.com/DiffyA/GSoC2018/master/docs/_assets/architecture_dependencies.png)
 
 So far, the following dependencies have been identified:
 
