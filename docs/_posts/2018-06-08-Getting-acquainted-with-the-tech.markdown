@@ -15,7 +15,7 @@ On the other hand, we have a software component called [Bonafide](https://leap.s
 
 To summarize these two components, we can say that Soledad throws the heavy punches; it is in charge of providing persistent and synchronized storage across different devices, while Bonafide is the component responsible for making sure a user is who it states it is.
 
-Having contextualized LEAP's projects and the software components that the password manager will rely on, we can start to discuss its creation. My goal is to leverage these two systems in order to creat... **Syn: password manager which prioritizes data confidentiality and availability above all**. However, Syn will be different than many existing managers (KeePass, LastPass, etc.), because it will have two very important characteristics: **native synchronization across devices**, and **cryptographically secure data storage**. These two aspects will be explained in further detail in an upcoming post, where I will compare Syn to existing managers as well as describe its features.
+Having contextualized LEAP's projects and the software components that the password manager will rely on, we can start to discuss its creation. My goal is to leverage these two systems in order to create... **Syn: a password manager which prioritizes data confidentiality and availability above all**. However, Syn will be different than many existing managers (KeePass, LastPass, etc.), because it will have two very important characteristics: **native synchronization across devices**, and **cryptographically secure data storage**. These two aspects will be explained in further detail in an upcoming post, where I will compare Syn to existing managers as well as describe its features.
 
 
 -V.
