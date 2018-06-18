@@ -9,7 +9,7 @@ In this post, we will take a closer look at the first revision of Syn's architec
 
 In the following image, Syn's internal modules are displayed. It is important to take into account that in these first depictions of the system architecture, a difference is made between the features and modules included in the MVP version of Syn, as well as those thought of for future versions. It is pretty much safe to say that this initial architecture plan is prone to changes as development is carried out.
 
-![Syn architecture modules] ({{ "/_assets/architecture_modules.png" | absolute_url}})
+![Syn architecture modules](https://raw.githubusercontent.com/DiffyA/GSoC2018/master/docs/_assets/architecture_modules.png)
 
 As can be observed from the previous image, the following modules make up the Syn system:
 
@@ -25,7 +25,7 @@ As can be observed from the previous image, the following modules make up the Sy
 
 Apart from this initial revision of the system architecture, a high-level dependency diagram has also been drafted. Again, MVP versions and future versions have been tagged, and of course, this dependency diagram is subject to change.
 
-![Syn architecture dependencies] ({{ "/_assets/architecture_dependencies.png" | absolute_url}})
+![Syn architecture dependencies] (https://raw.githubusercontent.com/DiffyA/GSoC2018/master/docs/_assets/architecture_dependencies.png)
 
 So far, the following dependencies have been identified:
 
