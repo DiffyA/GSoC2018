@@ -230,6 +230,8 @@ if __name__ == '__main__':
 
 To see the difference, simply comment the line that says `defer.returnValue(result)` so you can see how the `cb()` callback added to the deferred does not have access to the result of the inner deferred.
 
+If you are interested in learning more about these mechanisms, I highly suggest you check out ![this page](http://krondo.com/just-another-way-to-spell-callback/) for more technical examples, and ![this one](https://glyph.twistedmatrix.com/2014/02/unyielding.html) for more background knowledge on callbacks, async workflows and Twisted philosophy!
+
 That's all for now regarding yields, generators, and Twisted's inline callbacks, but trust me, I will be dealing with them for a long long time!
 
 ### That's great, but, why use them?
@@ -262,7 +264,7 @@ I won't go into too much detail given that testing falls way outside of the scop
 2. Execute all the tests in a random order. Once done, `setup_and_clean()` will resume from the yield.
 3. Execute the teardown code after all tests have executed.
 
-More information of this cleanup method can be found (here)[https://docs.pytest.org/en/latest/fixture.html].
+More information of this cleanup method can be found ![here](https://docs.pytest.org/en/latest/fixture.html).
 
 ### Thank you for sticking through my longest post so far! I hope it made sense!
 
