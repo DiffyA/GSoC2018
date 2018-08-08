@@ -6,7 +6,7 @@ date:   2018-08-08
 
 # Syn
 
-Syn is an easy to use password management application developed using an underlying [!Soledad](https://leap.se/soledad) engine for data  synchronization and security as well as the [!Twisted](https://twistedmatrix.com/trac/) event-driven framework for asynchronous request handling.
+Syn is an easy to use password management application developed using an underlying [Soledad](https://leap.se/soledad) engine for data  synchronization and security as well as the [Twisted](https://twistedmatrix.com/trac/) event-driven framework for asynchronous request handling.
 
 The repository containing all of Syn's source code can be found here: <https://0xacab.org/vdegou/Syn>
 
